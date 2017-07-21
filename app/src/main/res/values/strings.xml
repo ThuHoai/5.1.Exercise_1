@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EX1</string>
+
+    <string name="red_lable">Red</string>
+    <string name="blue_lable">Blue</string>
+    <string name="yellow_lable">Yellow</string>
+    
+    <string name="toogle_red_off">Not Red</string>
+    <string name="toogle_yellow_off">Not Yellow</string>
+    <string name="toogle_blue_off">Not Blue</string>
+
+
+</resources>
